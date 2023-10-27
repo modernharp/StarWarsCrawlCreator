@@ -1,4 +1,4 @@
-# Star Wars Crawl Creator
+# [Star Wars Crawl Creator](https://gostargazer.com/star-wars-crawl/)
 
 Unleash your inner Jedi or Sith Lord by creating your own epic Star Wars crawl. This tool transports you to a galaxy far, far away, allowing you to customize your own adventure. Perfect for Star Wars fans, filmmakers, or anyone looking to add a sprinkle of space fantasy to their day.
 
@@ -7,7 +7,7 @@ Unleash your inner Jedi or Sith Lord by creating your own epic Star Wars crawl. 
 
 ## Usage
 
-Fill in the following fields:
+Go [here](https://gostargazer.com/star-wars-crawl/), Fill in the following fields:
 - Start Text (A long time ago, in a galaxy far far away...)
 - Title Row 1 (STAR)
 - Title Row 2 (WARS)
