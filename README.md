@@ -17,7 +17,7 @@ Go [here](https://gostargazer.com/star-wars-crawl/), Fill in the following field
 - Email Address
 - Resolution (SD, HD, 4K)
 
-Your video will be generated and delivered to your email within a few hours.
+Your video will be generated and delivered to your email within a few minutes.
 
 ## Screenshots
 
